@@ -19,7 +19,7 @@ Recent ECE graduate passionate about **IoT**, **Embedded Systems**, **Hardware D
 
 📫 **Connect**:
 - LinkedIn: [linkedin.com/in/kamaleshv](https://www.linkedin.com/in/your-real-profile)
-- Email: kamalesh.v.ece@gmail.com (or your professional one)
+- Email: kamaleshv444@outlook.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaleshv44&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshv44&layout=compact)
