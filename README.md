@@ -43,7 +43,6 @@ Proficient in C, C++, Python, Embedded C, OpenCV, YOLO, MQTT, AWS IoT Core, LabV
 
 ### 📫 Let's Connect
 - **Email**: kamaleshv444@gmail.com  
-- **Phone**: +91 6364704482  
 - **LinkedIn**: [linkedin.com/in/kamalesh-v](https://www.linkedin.com/in/kamalesh-v)  
 - **Location**: Bengaluru, Karnataka, India  
 
