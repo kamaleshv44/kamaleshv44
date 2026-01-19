@@ -48,7 +48,6 @@ Proficient in C, C++, Python, Embedded C, OpenCV, YOLO, MQTT, AWS IoT Core, LabV
 - **LinkedIn**: [linkedin.com/in/kamalesh-v](https://www.linkedin.com/in/kamalesh-v)  
 - **Location**: Bengaluru, Karnataka, India  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamaleshv44&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshv44&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamaleshv44&show_icons=true&theme=radical&hide_border=true)
 
 Thanks for stopping by! Explore the repos above or reach out for collaborations in embedded systems, IoT, or AI edge computing. 🚀
