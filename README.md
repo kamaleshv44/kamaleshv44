@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kamalesh V
 
-Electronics & Communication Engineering graduate passionate about **embedded systems**, **IoT**, **computer vision**, and **edge AI**. Experienced in designing real-time YOLO-based detection systems, sensor-driven monitoring, PCB manufacturing, and hardware-software integration on platforms like Jetson Nano, ESP32, Arduino, Raspberry Pi, and myRIO.
+Electronics & Communication Engineering graduate passionate about **embedded systems**, **IoT**, **computer vision**, and **edge AI**. Experienced in real-time YOLO-based detection, sensor-driven monitoring, PCB manufacturing, and hardware-software integration on Jetson Nano, ESP32, Arduino, Raspberry Pi, and myRIO.
 
-Proficient in C, C++, Python, Embedded C, OpenCV, YOLO, MQTT, AWS IoT Core, LabVIEW, MATLAB, and more.
+Proficient in C, C++, Python, Embedded C, OpenCV, YOLO, MQTT, AWS IoT Core, LabVIEW, MATLAB, PLC/SCADA, GSM/RF.
 
 ### 🔧 Technical Skills
 - **Embedded Platforms** — Arduino UNO, ESP32, Raspberry Pi, Jetson Nano, myRIO  
@@ -18,7 +18,7 @@ Proficient in C, C++, Python, Embedded C, OpenCV, YOLO, MQTT, AWS IoT Core, LabV
   • Designed & deployed YOLO-based real-time systems for object detection, segmentation, fire detection, motion detection & intruder alerting  
   • Implemented CV pipelines on Jetson Nano with live CCTV streams for low-latency edge inference  
   • Optimized workflows → ~35% improvement in inference efficiency  
-  • Integrated real-time alerts & continuous surveillance monitoring  
+  • Integrated real-time alerts & continuous surveillance  
 
 - **Engineer Intern – Electronics Manufacturing**  
   Micron EMS Tech Pvt. Ltd., Bengaluru (Oct 2023 – Nov 2023)  
@@ -34,20 +34,19 @@ Proficient in C, C++, Python, Embedded C, OpenCV, YOLO, MQTT, AWS IoT Core, LabV
 ### 🛠️ Key Projects & Repositories
 | Project / Internship | Description | Technologies | Repository |
 |----------------------|-------------|--------------|------------|
-| **AI-Based Real-Time Surveillance System** | YOLO-based system for object detection, segmentation, fire detection, motion detection & intruder alerts on Jetson Nano with live CCTV | YOLO, OpenCV, Jetson Nano, Real-time CV | (Create: `ai-surveillance-system`) |
-| **IoT-Based Transport Monitoring of Goods** (Final Year Project) | Real-time monitoring of temperature, humidity, gas, vibration & location with automated alerts | Arduino, GSM, RF, Sensors, MQTT | [iot-goods-monitoring](https://github.com/kamaleshv44/iot-goods-monitoring) |
-| **Embedded Systems & IoT Internship** @ AI4SEE | YOLO real-time systems on Jetson Nano, AI/IoT integration, workflow optimization | Jetson Nano, YOLO, IoT, Python/C++ | [embedded-iot-ai4see](https://github.com/kamaleshv44/embedded-iot-ai4see) |
-| **PCB Manufacturing Internship** @ Micron EMS | Hands-on PCB assembly, wave soldering, quality checks & defect reduction | Through-Hole/SMD, Testing, Debugging | [pcb-manufacturing-micron](https://github.com/kamaleshv44/pcb-manufacturing-micron) |
-| **Smart Crop Field Protection & Automated Irrigation** (Mini Project) | Sensor-based auto-irrigation & intrusion detection for crop safety & water efficiency | Sensors, Automation Logic, C/C++ | [smart-crop-protection](https://github.com/kamaleshv44/smart-crop-protection) |
-| **LabVIEW Alcohol Level Detector** (Internship Project) | Breath alcohol detection with MQ-3 sensor, myRIO, threshold logic & engine lock | LabVIEW, myRIO, MQ-3 Sensor | [labview-alcohol-detector](https://github.com/kamaleshv44/labview-alcohol-detector) |
-
-*(Tip: Create a new repo `ai-surveillance-system` soon for your YOLO/Jetson project to match your resume—upload code snippets, inference screenshots, or demo video links.)*
+| **AI-Based Real-Time Surveillance System** | YOLO-based surveillance for object detection, segmentation, fire detection, motion detection & intruder alerts on Jetson Nano with live CCTV | YOLO, OpenCV, Jetson Nano, Real-time CV | [ai-based-real-time-surveillance](https://github.com/kamaleshv44/ai-based-real-time-surveillance) |
+| **IoT-Based Transport Monitoring of Goods** (Final Year) | Real-time monitoring of temperature, humidity, gas, vibration & location with alerts | Arduino, GSM, RF, Sensors, MQTT | [iot-goods-monitoring](https://github.com/kamaleshv44/iot-goods-monitoring) |
+| **Embedded Systems & AIoT Internship** @ AI4SEE | YOLO real-time systems on Jetson Nano, AI/IoT integration | Jetson Nano, YOLO, Python/C++ | [embedded-iot-ai4see](https://github.com/kamaleshv44/embedded-iot-ai4see) |
+| **PCB Manufacturing Internship** @ Micron EMS | PCB assembly, wave soldering, quality checks & defect reduction | Through-Hole/SMD, Testing | [pcb-manufacturing-micron](https://github.com/kamaleshv44/pcb-manufacturing-micron) |
+| **Smart Crop Field Protection & Automated Irrigation** (Mini Project) | Sensor-based auto-irrigation & intrusion detection | Sensors, Automation, C/C++ | [smart-crop-protection](https://github.com/kamaleshv44/smart-crop-protection) |
+| **LabVIEW Alcohol Level Detector** | MQ-3 sensor breath alcohol detection with engine lock | LabVIEW, myRIO, MQ-3 | [labview-alcohol-detector](https://github.com/kamaleshv44/labview-alcohol-detector) |
 
 ### 📫 Let's Connect
 - **Email**: kamaleshv444@gmail.com  
+- **Phone**: +91 6364704482  
 - **LinkedIn**: [linkedin.com/in/kamalesh-v](https://www.linkedin.com/in/kamalesh-v)  
 - **Location**: Bengaluru, Karnataka, India  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamaleshv44&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamaleshv44&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-Thanks for stopping by! Explore the repos above or reach out for collaborations in embedded systems, IoT, or AI edge computing. 🚀
+Thanks for stopping by! Explore the repos or reach out for collaborations in embedded systems, IoT, computer vision, or AI edge computing. 🚀
