@@ -20,13 +20,13 @@ My work spans low-latency embedded firmware, scalable IoT data flows, and edge A
 
 ## 🛠️ Tech Stack
 **Languages:** Embedded C/C++, Python  
-**Hardware:** ESP32, Arduino, Jetson Nano  
+**Hardware:** ESP32, Arduino, Jetson Nano, Raspberry pi  
 **Edge & Vision:** YOLO, OpenCV, TensorRT (basics)  
-**Cloud/Networking:** AWS IoT Core, MQTT, Sensor systems
+**Cloud/Networking:** AWS IoT Core, MQTT, Sensor systems, Thingsspeak 
 
 ---
 
 ## 📫 Contact
-🔗 LinkedIn: *(link)*  
-📧 Email: *(your email)*
+🔗 LinkedIn: https://www.linkedin.com/in/kamalesh-v-ecengineer/ 
+📧 Email: kamaleshv444@outlook.com
 
