@@ -1,38 +1,36 @@
 # Kamalesh V — Embedded, IoT & Edge AI Engineer
 
-🚀 I build **production-grade embedded systems, IoT frameworks, and edge AI solutions** that solve real-world engineering problems.
-
-**Core Strengths:** Embedded C/C++ | Python | ESP32 | Jetson Nano | AWS IoT | MQTT | Edge Vision
-
----
-
-## 👨‍💻 What I Do
-I architect and develop systems that:
-- connect sensors and devices in reliable networks  
-- run optimized firmware under constraints  
-- perform **edge AI inference** with real-time performance  
-- deliver actionable insights to cloud & dashboards
+I build **production-oriented embedded and IoT systems** with exposure to  
+industrial automation, edge AI, and real-world sensor deployments.
 
 ---
 
-## 📌 Highlighted Projects
-🔹 **Smart Crop Field Protection (ESP32, Sensors, MQTT)** – Optimized water usage & intrusion alerts  
-🔹 **Transport Monitoring System (IoT + Alerts)** – Real-time logistics visibility  
-🔹 *(More coming — e.g., Edge AI Vision Pipelines)*
+## 🔧 Engineering Focus
+- Embedded firmware for sensor-based systems
+- IoT communication using MQTT & cloud backends
+- Industrial monitoring & test automation
+- Edge AI & computer vision (deployment-focused)
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 📌 Selected Work
+- **Transport Monitoring System** — End-to-end IoT solution for real-time tracking  
+- **Smart Crop Field Protection** — ESP32-based sensor & alert system  
+- **Industrial Test Automation (LabVIEW)** — Internship project  
+- **Edge AI Vision System (AI4SEE)** — Computer vision internship project
+
+---
+
+## 🛠 Tech Stack
 **Languages:** Embedded C/C++, Python  
-**Embedded HW:** ESP32, Arduino, Jetson Nano  
-**Edge AI / Vision:** OpenCV, YOLO, TensorRT (intro)  
-**Cloud / IoT:** AWS IoT Core, MQTT, sensor networks
+**Hardware:** ESP32, Arduino, Raspberry pi, Jetson Nano  
+**IoT:** MQTT, AWS IoT Core, Thingspeak, sensor networks  
+**Edge AI:** OpenCV, YOLO, TensorRT (basics)
 
 ---
 
-## 📈 Recruiter Note
-**I target roles where GitHub work matters first:**  
-Embedded Software Engineer | IoT Engineer | Edge AI / Vision Engineer | R&D Engineer
+## 🎯 Target Roles
+Embedded Software Engineer • IoT Engineer • Edge AI / CV Engineer • R&D Engineer
 
 ---
 
