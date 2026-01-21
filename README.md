@@ -1,32 +1,41 @@
-# Kamalesh V — Embedded & IoT R&D Engineer
+# Kamalesh V — Embedded, IoT & Edge AI Engineer
 
-🚀 Building production-grade IoT, embedded, and edge AI systems  
-🔧 Embedded C/C++ | Python | ESP32 | Jetson Nano | OpenCV | AWS IoT
+🚀 I build **production-grade embedded systems, IoT frameworks, and edge AI solutions** that solve real-world engineering problems.
+
+**Core Strengths:** Embedded C/C++ | Python | ESP32 | Jetson Nano | AWS IoT | MQTT | Edge Vision
 
 ---
 
-## 🔍 What I Build
-I architect systems that connect sensors, run real-time inference, and deliver actionable insights.  
-My work spans low-latency embedded firmware, scalable IoT data flows, and edge AI vision pipelines.
+## 👨‍💻 What I Do
+I architect and develop systems that:
+- connect sensors and devices in reliable networks  
+- run optimized firmware under constraints  
+- perform **edge AI inference** with real-time performance  
+- deliver actionable insights to cloud & dashboards
 
 ---
 
 ## 📌 Highlighted Projects
-⭐ **Automated Industrial Monitoring System (LabVIEW)** — Real-time acquisition & automation  
-⭐ *(Next pinned repo)* – Edge AI inference on Jetson  
-⭐ *(Next pinned repo)* – ESP32 MQTT sensor gateway with AWS IoT
+🔹 **Smart Crop Field Protection (ESP32, Sensors, MQTT)** – Optimized water usage & intrusion alerts  
+🔹 **Transport Monitoring System (IoT + Alerts)** – Real-time logistics visibility  
+🔹 *(More coming — e.g., Edge AI Vision Pipelines)*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 **Languages:** Embedded C/C++, Python  
-**Hardware:** ESP32, Arduino, Jetson Nano, Raspberry pi  
-**Edge & Vision:** YOLO, OpenCV, TensorRT (basics)  
-**Cloud/Networking:** AWS IoT Core, MQTT, Sensor systems, Thingsspeak 
+**Embedded HW:** ESP32, Arduino, Jetson Nano  
+**Edge AI / Vision:** OpenCV, YOLO, TensorRT (intro)  
+**Cloud / IoT:** AWS IoT Core, MQTT, sensor networks
+
+---
+
+## 📈 Recruiter Note
+**I target roles where GitHub work matters first:**  
+Embedded Software Engineer | IoT Engineer | Edge AI / Vision Engineer | R&D Engineer
 
 ---
 
 ## 📫 Contact
 🔗 LinkedIn: https://www.linkedin.com/in/kamalesh-v-ecengineer/ 
-📧 Email: kamaleshv444@outlook.com
-
+📧 Email: kamaleshv444@gmail.com
